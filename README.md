@@ -1,2 +1,2 @@
-# rainy.github.io
+# ThreeJS
 ThreeJS stuff here
